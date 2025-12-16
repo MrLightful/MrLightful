@@ -4,4 +4,3 @@
 - 👨‍🎓 BSc Computer Science & Engineering @ [TU Delft](https://tudelft.nl/en) 🇳🇱 (2022)
 - 💙 Interests: diving, guitar, tech, startups
 - 🌍 I speak: 🇬🇧 🇷🇺 🇳🇴 🇪🇸
-- 📫 Reach me: [LinkedIn](https://linkedin.com/in/RSirokov) or [sirokov@dizconto.com](mailto:sirokov@dizconto.com)
