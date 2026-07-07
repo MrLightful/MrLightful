@@ -4,3 +4,4 @@
 - 👨‍🎓 BSc Computer Science & Engineering @ [TU Delft](https://tudelft.nl/en) 🇳🇱 (2022)
 - 💙 Interests: diving, guitar, tech, startups
 - 🌍 I speak: 🇬🇧 🇷🇺 🇳🇴 🇪🇸
+- 🌐 https://mrlightful.com
